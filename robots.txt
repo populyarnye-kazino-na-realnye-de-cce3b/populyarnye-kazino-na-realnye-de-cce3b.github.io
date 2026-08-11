@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: populyarnye-kazino-na-realnye-de-cce3b.github.io
+Sitemap: https://populyarnye-kazino-na-realnye-de-cce3b.github.io/sitemap.xml
